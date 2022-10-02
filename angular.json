@@ -105,6 +105,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "routes"
+    }
+  },
+  "defaultProject": "routes",
+  "cli": {
+    "analytics": "8b449063-79e9-4291-b708-b3596b8ac75a"
+  }
 }
